@@ -453,15 +453,15 @@ func getLiveRadios() []liveRadio {
 			},
 		},
 		{
-			Slug:  "tokyolosttracks",
-			Name:  "サクラチル",
-			Owner: "Tokyo LosT Track -Sakura Chill-",
-			URL:   "https://youtu.be/FpZoXpF0VUM",
+			Slug:  "tokyotone",
+			Name:  "Tokyo Night Drive",
+			Owner: "Tokyo Tone",
+			URL:   "https://youtu.be/Lcdi9O2XB4E",
 			Cards: []string{},
 			Links: []socialLink{
 				{
 					Slug: "youtube",
-					URL:  "https://youtu.be/FpZoXpF0VUM",
+					URL:  "https://youtu.be/Lcdi9O2XB4E",
 				},
 				{
 					Slug: "spotify",
